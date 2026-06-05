@@ -1,0 +1,9 @@
+{
+  "name": "py_productivity",
+  "version": "1.2.0",
+  "factorio_version": "2.0",
+  "title": "Pyanodon Productivity",
+  "author": "Kyran",
+  "description": "Allows productivity for a bunch of intermediates in the Pyanodon's mods.",
+  "dependencies": ["base", "pypostprocessing"]
+}

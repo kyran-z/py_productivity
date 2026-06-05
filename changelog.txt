@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 31. 05. 2026
+  Features:
+    - Added lamps and glassware to glassware productivity
+    - Added a new tech for Advanced Casting productivity
+    - Added Aerogel to the allow productivity list
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 12. 05. 2026
+  Features:
+    - Added five new infinite technologies for late game productivity on metals, alloys and glass products
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 27. 09. 2025
+  Features:
+    - Added a bunch more recipes to the allow-productivity list
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 04. 07. 2025
+  Features:
+    - Initial release.
