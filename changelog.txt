@@ -1,5 +1,12 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0
+Date: 06. 06. 2026
+  Features:
+    - Added two new techs: Phytomining and Nucleosynthesis productivity
+    - Added some starting settings
+    - Added tiered science: Some of the productivity researches will be available much earlier, as you unlock one level at the time progressing through the tech tree (like mining productivity). (For now only phytomining, more to come)
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
 Date: 31. 05. 2026
   Features:
     - Added lamps and glassware to glassware productivity
