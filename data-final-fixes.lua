@@ -1,3 +1,7 @@
+if not settings.startup["enable-productivity-items"].value then
+    return
+end
+
 recipe_list = {
 
 "animal-sample-01", "perfect-samples", --samples
