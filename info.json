@@ -1,7 +1,7 @@
 {
   "name": "py_productivity",
-  "version": "1.3.0",
-  "factorio_version": "2.0",
+  "version": "1.4.0",
+  "factorio_version": "2.1",
   "title": "Pyanodon Productivity",
   "author": "Kyran",
   "description": "Allows productivity for a bunch of intermediates in the Pyanodon's mods.",
